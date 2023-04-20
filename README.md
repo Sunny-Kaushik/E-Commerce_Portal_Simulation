@@ -38,7 +38,17 @@ The user can type any of the following commands:
   
   ○ Asks the portal to check if there is a response from the platform for an earlier request.
   
-● The above commands can be called in any order. For instance there could be multiple “Buy” commands after a “List” and without any “Check” in between.
+●  The above commands can be called in any order. For instance there could be multiple “Buy” commands after a “List” and without any “Check” in between.
   
   
+  
+->Run the program
+
+To run the shopping portal system, follow these steps:
+
+● Open a terminal and run "PlatformMain.java" to start the Java-based platform.
+● Open another terminal and run "PortalMain.cpp" to launch the C++-based portal.
+● If you need to run multiple portals simultaneously, open a new terminal and execute the "PortalMain.cpp" program again. This setup allows you to run the shopping portal system with the Java-based platform and multiple instances of the C++-based portal concurrently.
+
+
   
